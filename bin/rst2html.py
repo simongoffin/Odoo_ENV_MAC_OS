@@ -1,0 +1,5 @@
+#!/Users/simongoffin/Desktop/Odoo_ENV/bin/python
+# EASY-INSTALL-SCRIPT: 'docutils==0.11','rst2html.py'
+__requires__ = 'docutils==0.11'
+import pkg_resources
+pkg_resources.run_script('docutils==0.11', 'rst2html.py')
