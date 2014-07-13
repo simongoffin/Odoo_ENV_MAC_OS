@@ -1,10 +1,6 @@
-virtualenv Env
+virtualenv Odoo_ENV
 
 source /Users/simongoffin/Desktop/Odoo_ENV/bin/activate
 
 deactivate
 
-
-virtualenv -p /usr/bin/python2.6 Odoo_ENV_26
-
-source /Users/simongoffin/Desktop/Odoo_ENV_26/bin/activate
